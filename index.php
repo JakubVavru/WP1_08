@@ -2,7 +2,7 @@
 // hádané číslo od 0 do 100
 
 
-define('MAX_NUMBER', 20);
+define('MAX_NUMBER', 100);
 define('MIN_NUMBER', 0);
 $guessNumber = rand(MIN_NUMBER, MAX_NUMBER);
 $yourNumber = 0;
